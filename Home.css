@@ -1,0 +1,90 @@
+/* texto*/
+div.p1{
+text-align: center;
+color: rgb(8, 8, 8);
+font-family: Georgia, serif	;
+font-size-adjust: initial;
+font-size: xx-large;
+}
+div.p2{
+    text-align: center;
+    color: rgb(8, 8, 8);
+    font-family: Georgia, serif	;
+    font-size-adjust: initial;
+    font-size-adjust: initial;
+font-size: xx-large;
+}
+div.p3{
+    text-align: center;
+    color: rgb(8, 8, 8);
+    font-family: Georgia, serif	;
+    font-size-adjust: initial;
+    font-size-adjust: initial;
+font-size: xx-large;
+}
+div.p4{
+    text-align: center;
+    color: rgb(8, 8, 8);
+    font-family: Georgia, serif	;
+    font-size-adjust: initial;
+    font-size: xx-large;
+}
+/* botoes*/
+div.b1{
+    display: block;
+  width: 100%;
+  border: none;
+  background-color: #ff07077c;
+  color: #ff07077c;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-size-adjust: initial
+  
+}
+div.b2{
+    display: block;
+  width: 100%;
+  border: none;
+  background-color: #ff07077c;
+  color: #ff07077c;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-size-adjust: initial
+}
+div.b3{
+    display: block;
+  width: 100%;
+  border: none;
+  background-color: #ff07077c;
+  color: #ff07077c;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-size-adjust: initial
+}
+div.b4{
+    display: block;
+  width: 100%;
+  border: none;
+  background-color: #ff07077c;
+  color: #ff07077c;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-size-adjust: initial
+}
+
+
+/* background*/
+body {
+    background-image: url("https://img.freepik.com/free-photo/grunge-vintage-old-paper-background_1373-431.jpg?size=626&ext=jpg");
+    background-position: center;  
+
+
+}
